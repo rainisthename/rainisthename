@@ -1,4 +1,8 @@
 ### Hi there 👋
+## The majority of my repositories are kept private as they contain source code related to my work.
+
+
+
 
 <!--
 **rainisthename/rainisthename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
