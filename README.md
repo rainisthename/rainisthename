@@ -1,5 +1,5 @@
 ### Hi there 👋
-# The majority of my repositories are kept private as they contain source code related to my work.
+The majority of my repositories are kept private as they contain source code related to my work.
 
 
 
