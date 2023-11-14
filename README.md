@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 The majority of my repositories are kept private as they contain source code related to my work.
 
 
