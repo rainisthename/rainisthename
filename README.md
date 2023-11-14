@@ -1,6 +1,7 @@
 ### Hello there 👋
 The majority of my repositories are kept private as they contain source code related to my work.
 
+- 🌱 I’m currently learning fastify and node-red
 
 
 
@@ -10,7 +11,6 @@ The majority of my repositories are kept private as they contain source code rel
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning fastify and node-red
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
